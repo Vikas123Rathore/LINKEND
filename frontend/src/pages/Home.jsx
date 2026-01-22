@@ -51,7 +51,7 @@ function Home() {
       setPosting(false)
       setUploadPost(false)
     } catch (error) {
-      setPostng(false)
+      setPosting(false)
       console.log(error)
     }
   }
